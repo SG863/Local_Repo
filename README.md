@@ -1,2 +1,2 @@
 # This is my Local Repo
-Checking merge functionality
+<p>Checking merge functionality</p>
